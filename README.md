@@ -7,7 +7,7 @@ Monday - 1. Introduction
 
 Tuesday - 2. Data & 3.a Model structure
 
-Wednesday - 3 (rest)
+Wednesday - 3 (the rest)
 
 Thursday - 4. Results
 
